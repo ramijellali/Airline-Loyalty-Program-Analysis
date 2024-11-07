@@ -1,7 +1,6 @@
 # Airline-Loyalty-Program-Analysis
 
-https://medium.com/@kwanqi.yt/data-analysis-project-airline-loyalty-program-analysis-bd9b05e5def9
-
+https://medium.com/@rami.jellali/data-analysis-project-analyzing-the-effectiveness-of-marketing-campaign-e05f3e56a035
 # About the Company
 Northern Lights Air (NLA), an airline in Canada has a simple yet profound belief: everyone can fly. Dedicated to becoming the top choice for air travel, NLA continuously strives to serve its community better. To further this mission, they are harnessing the power of data analysis to transform their business vision into reality.
 
@@ -102,4 +101,4 @@ Collect data for at least six months post-event to better assess campaign effect
 Marketing and Promotion Strategy : 
 This campaign might not be a sustainable way to boost the enrolment for a long term, a targeted marketing campaign on certain demographics group would generate more impactful outcome.
 
-Thank you for staying until the end. Should you need any collaboration, you can reach me on at kwanqi.yt@gmail.com.
+Thank you for staying until the end. Should you need any collaboration, you can reach me on at rami.jellali@esprit.com.
